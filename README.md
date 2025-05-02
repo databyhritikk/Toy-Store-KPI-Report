@@ -1,11 +1,11 @@
 # 🧸 Toy Store KPI Dashboard
 
-## 📌 Overview
+## Overview
 This project is a Power BI dashboard designed to track and analyze key performance indicators (KPIs) for a toy store. It focuses on monitoring product performance, revenue trends, profitability, and sales distribution across categories and regions, helping stakeholders make informed business decisions.
 
 ---
 
-## 📁 Data Sources
+## Data Sources
 - **Tool Used:** Power BI Desktop (`.pbix`)
 - **Primary Dataset:** Sales and product transaction data
 - **Fields Included:**  
@@ -17,7 +17,7 @@ This project is a Power BI dashboard designed to track and analyze key performan
 
 ---
 
-## ⚙️ Key Steps in Analysis
+## Key Steps in Analysis
 1. **Data Preparation**
    - Imported and cleaned raw sales data using Power Query.
    - Built a data model with appropriate relationships.
@@ -40,7 +40,7 @@ This project is a Power BI dashboard designed to track and analyze key performan
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 - **Consistent Revenue Growth**: Sales increase steadily month over month.
 - **Top Categories**: Certain toy categories dominate in terms of both sales and profit.
 - **Profit Insights**: Some categories contribute high revenue but lower margins—ideal for reviewing cost structure.
@@ -48,7 +48,7 @@ This project is a Power BI dashboard designed to track and analyze key performan
 
 ---
 
-## 🔮 Future Work
+## Future Work
 - Add stock and inventory data to monitor availability vs sales.
 - Incorporate forecasting using Power BI’s built-in analytics tools.
 - Build drill-through pages for deeper product-level analysis.
